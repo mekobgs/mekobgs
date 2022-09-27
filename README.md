@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elmer Chacon</h1>
-<h3 align="center">A passionate backend developer from El Salvador</h3>
+<h3 align="center">A passionate software engineer from El Salvador</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mekobgs" alt="mekobgs" /></a> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript frameworks**
 
-- 👯 I’m looking to collaborate on **any javascript project**
+- 👯 I’m looking to collaborate on **any .NET or javascript (node) project**
 
-- 🤝 I’m looking for help with **any pro-bono project (if you need tech in your life for any good reason and you don't know how to pay it, call me)**
+- 🤝 I’m looking to help with **any pro-bono project (if you need tech in your life for any good reason and you don't know how to pay for it, call me)**
 
 - 💬 Ask me about **c#, asp.net, blazor**
 
